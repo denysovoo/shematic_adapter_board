@@ -11,3 +11,10 @@ rd_n: It is an active low signal. When asserted, data is driven onto data bus fr
 wr_n: It is an active low signal. When asserted, data written on data bus is driven into FIFO. 
 
 oe_n: it is an active ow output enable input signal. When asserted, data is driven ondata bus, then rd_n is enable after 1 clock period.
+
+
+
+Connect the CON4 connector to the GPIO1 connector of the DE0-Nano-SoC board.
+Connector CON1 with arduino connector card DE0-Nano-SoC.
+Connector CON2 with connector CN2 FT2232H.
+Connector CON3 with connector CN3 FT2232H.
