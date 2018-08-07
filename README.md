@@ -15,8 +15,11 @@ oe_n: it is an active ow output enable input signal. When asserted, data is driv
 
 
 Connect the CON4 connector to the GPIO1 connector of the DE0-Nano-SoC board.
+
 Connector CON1 with arduino connector card DE0-Nano-SoC.
+
 Connector CON2 with connector CN2 FT2232H.
+
 Connector CON3 with connector CN3 FT2232H.
 
 
