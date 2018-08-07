@@ -18,3 +18,7 @@ Connect the CON4 connector to the GPIO1 connector of the DE0-Nano-SoC board.
 Connector CON1 with arduino connector card DE0-Nano-SoC.
 Connector CON2 with connector CN2 FT2232H.
 Connector CON3 with connector CN3 FT2232H.
+
+This description of the debugging boards for which the adapter was made
+https://www.terasic.com.tw/attachment/archive/941/DE0-Nano-SoC_User_manual.pdf
+http://www.ftdichip.com/Support/Documents/DataSheets/Modules/DS_FT2232H_Mini_Module.pdf
